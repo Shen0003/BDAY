@@ -5,7 +5,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { onAuthStateChanged } from 'firebase/auth';
 import { Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import SplashScreen from './Screens/SplashScreen'; // Import the SplashScreen component
+import SplashScreen from './Screens/SplashScreen';
 import LoginScreen from './Screens/LoginScreen';
 import ProfileScreen from './Screens/ProfileScreen';
 import CalendarScreen from './Screens/CalendarScreen';  

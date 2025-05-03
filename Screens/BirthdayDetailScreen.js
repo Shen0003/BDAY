@@ -1,5 +1,3 @@
-// Modify the BirthdayDetailScreen.js file to fetch the latest data on component load
-
 import React, { useState, useEffect } from 'react';
 import { 
   View, 
